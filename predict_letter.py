@@ -2,7 +2,6 @@ import numpy as np
 from keras.models import load_model
 from PIL import Image
 import PIL.ImageOps
-import os
 import argparse
 
 
