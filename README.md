@@ -5,7 +5,7 @@ Code for Tola's hebrew letter challenge.
 Train a neural network to identify handwritten hebrew letter (Alef, Bet and Gimel).
 
 ## Contents
-**Hebrew_Letters_Challenge_-_Orb.ipynb** - A colab notebook with all the training process
+**Hebrew_Letters_Challenge_Orb.ipynb** - A colab notebook with all the training process
 
 **final_model_00175.h5** - A Keras model file with the final model for the challenge
 
