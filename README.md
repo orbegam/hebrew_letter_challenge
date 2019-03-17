@@ -11,7 +11,15 @@ Train a neural network to identify handwritten hebrew letter (Alef, Bet and Gime
 
 **predict_letter.py** - A python script that identifies a single 81x81 image
 
+**requirements.txt** - A requirements file for pip
+
 ## Usage
 Place **predict_letter.py** and **final_model_00175.h5** in the same folder.
 
-run **python predict_letter.py image_path [--verbose]**
+Make sure all prerequisites are installed using:
+
+`pip install -r requirements.txt`
+
+Run the prediction using:
+
+`python predict_letter.py image_path [--verbose]`
